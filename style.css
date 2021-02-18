@@ -1,0 +1,56 @@
+header h1{
+    position:center;
+    width: 320px;
+    height: 42px;
+    left: 250px;
+    top: 25px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #5DB65D;
+    position: absolute;
+    width: 763px;
+    height: 93px;
+    left: 0px;
+    top: 2px;
+
+background: #E47474;
+
+}
+ ol{
+position: absolute;
+width: 234px;
+height: 21px;
+left: 52px;
+top: 115px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #5DB65D;
+position: absolute;
+width: 360px;
+height: 70px;
+left: 35px;
+top: 105px;
+
+background: #E47474;
+}
+footer {
+    position: absolute;
+width: 763px;
+height: 444px;
+left: 0px;
+top: 93px;
+
+background: #F5B1B1;
+}
